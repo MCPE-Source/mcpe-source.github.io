@@ -1,0 +1,6 @@
+title: MCPE-Source
+logo: /assets/img/logo.png
+description: Open-source platform for sharing Minecraft PE Alpha maps, textures, mods and plugins
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-minimal
